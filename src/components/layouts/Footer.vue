@@ -2,7 +2,7 @@
   <div class="container-fluid footer">
     <div class="row">
       <div class="col-3 contact-left">
-        <router-link to="/">
+        <router-link to="/register">
           <img class="contact-wpp" src="../../assets/logo_whatsapp.png">
         </router-link>
       </div>
@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="col-3 contact-right">
-        <router-link to="/">
+        <router-link to="/register">
           <img class="contact-parents" src="../../assets/soccer.jpg">
         </router-link>
       </div>
